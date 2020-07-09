@@ -1,0 +1,13 @@
+C:\Pedja\myApp\bin\Debug\netcoreapp3.1\myApp.exe
+C:\Pedja\myApp\bin\Debug\netcoreapp3.1\myApp.deps.json
+C:\Pedja\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.json
+C:\Pedja\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.dev.json
+C:\Pedja\myApp\bin\Debug\netcoreapp3.1\myApp.dll
+C:\Pedja\myApp\bin\Debug\netcoreapp3.1\myApp.pdb
+C:\Pedja\myApp\obj\Debug\netcoreapp3.1\myApp.csprojAssemblyReference.cache
+C:\Pedja\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
+C:\Pedja\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfo.cs
+C:\Pedja\myApp\obj\Debug\netcoreapp3.1\myApp.csproj.CoreCompileInputs.cache
+C:\Pedja\myApp\obj\Debug\netcoreapp3.1\myApp.dll
+C:\Pedja\myApp\obj\Debug\netcoreapp3.1\myApp.pdb
+C:\Pedja\myApp\obj\Debug\netcoreapp3.1\myApp.genruntimeconfig.cache
